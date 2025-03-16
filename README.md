@@ -1,2 +1,2 @@
 # Datasets
-Different datasets can be dowloaded based on their name
+Different datasets can be dowloaded at different websites
